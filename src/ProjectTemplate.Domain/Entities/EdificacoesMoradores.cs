@@ -1,13 +1,10 @@
-﻿using ProjectTemplate.Domain.Entities;
-using System.ComponentModel.DataAnnotations.Schema;
-
-namespace ProjectTemplate.Application.DTOs
+﻿
+namespace ProjectTemplate.Domain.Entities
 {
     public class EdificacoesMoradores : BaseEntidade
     {
 
         public string COD_EDIFICACAO { get; set; }
-        [ForeignKey("COD_EDIFICACAO")]
 
         public string UTM_X { get; set; }
 

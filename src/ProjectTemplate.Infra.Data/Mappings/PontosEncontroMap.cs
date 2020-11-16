@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
-using ProjectTemplate.Application.DTOs;
+using ProjectTemplate.Domain.Entities;
 
 namespace ProjectTemplate.Infra.Data.Mappings
 {

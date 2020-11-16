@@ -1,7 +1,4 @@
-﻿using ProjectTemplate.Application.DTOs;
-using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using ProjectTemplate.Domain.Entities;
 
 namespace ProjectTemplate.Domain.Interfaces.Repositories
 {

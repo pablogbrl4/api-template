@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Storage;
-using ProjectTemplate.Application.DTOs;
+using ProjectTemplate.Domain.Entities;
 using ProjectTemplate.Infra.Data.Mappings;
 using System;
 using System.Threading.Tasks;

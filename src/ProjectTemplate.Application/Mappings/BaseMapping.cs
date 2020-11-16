@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using ProjectTemplate.Application.DTOs;
+using ProjectTemplate.Domain.Entities;
 
 namespace ProjectTemplate.Application.Mappings
 {

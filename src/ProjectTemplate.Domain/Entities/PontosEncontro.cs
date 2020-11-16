@@ -1,7 +1,7 @@
-﻿using ProjectTemplate.Domain.Entities;
+﻿
 
 
-namespace ProjectTemplate.Application.DTOs
+namespace ProjectTemplate.Domain.Entities
 {
     public class PontosEncontro : BaseEntidade
     {

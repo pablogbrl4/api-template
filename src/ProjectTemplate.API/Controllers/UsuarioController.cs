@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using ProjectTemplate.Application.DTOs;
 using ProjectTemplate.Application.Interfaces;
+using ProjectTemplate.Domain.Entities;
 using System;
 
 namespace ProjectTemplate.API.Controllers
