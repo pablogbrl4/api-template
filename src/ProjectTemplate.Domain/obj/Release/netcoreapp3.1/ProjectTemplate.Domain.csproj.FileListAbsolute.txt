@@ -1,0 +1,9 @@
+C:\Users\Eddy Moura\Documents\0 - Project QRLoc\QRLoc\src\ProjectTemplate.Domain\bin\Release\netcoreapp3.1\ProjectTemplate.Domain.deps.json
+C:\Users\Eddy Moura\Documents\0 - Project QRLoc\QRLoc\src\ProjectTemplate.Domain\bin\Release\netcoreapp3.1\ProjectTemplate.Domain.dll
+C:\Users\Eddy Moura\Documents\0 - Project QRLoc\QRLoc\src\ProjectTemplate.Domain\bin\Release\netcoreapp3.1\ProjectTemplate.Domain.pdb
+C:\Users\Eddy Moura\Documents\0 - Project QRLoc\QRLoc\src\ProjectTemplate.Domain\obj\Release\netcoreapp3.1\ProjectTemplate.Domain.csprojAssemblyReference.cache
+C:\Users\Eddy Moura\Documents\0 - Project QRLoc\QRLoc\src\ProjectTemplate.Domain\obj\Release\netcoreapp3.1\ProjectTemplate.Domain.AssemblyInfoInputs.cache
+C:\Users\Eddy Moura\Documents\0 - Project QRLoc\QRLoc\src\ProjectTemplate.Domain\obj\Release\netcoreapp3.1\ProjectTemplate.Domain.AssemblyInfo.cs
+C:\Users\Eddy Moura\Documents\0 - Project QRLoc\QRLoc\src\ProjectTemplate.Domain\obj\Release\netcoreapp3.1\ProjectTemplate.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Eddy Moura\Documents\0 - Project QRLoc\QRLoc\src\ProjectTemplate.Domain\obj\Release\netcoreapp3.1\ProjectTemplate.Domain.dll
+C:\Users\Eddy Moura\Documents\0 - Project QRLoc\QRLoc\src\ProjectTemplate.Domain\obj\Release\netcoreapp3.1\ProjectTemplate.Domain.pdb
